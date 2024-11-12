@@ -1,0 +1,52 @@
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/bin/Debug/net7.0/appsettings.Development.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/bin/Debug/net7.0/appsettings.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/bin/Debug/net7.0/lab2
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/bin/Debug/net7.0/lab2.deps.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/bin/Debug/net7.0/lab2.runtimeconfig.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/bin/Debug/net7.0/lab2.dll
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/bin/Debug/net7.0/lab2.pdb
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.csproj.AssemblyReference.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.AssemblyInfoInputs.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.AssemblyInfo.cs
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.csproj.CoreCompileInputs.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.MvcApplicationPartsAssemblyInfo.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/staticwebassets/msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/staticwebassets/msbuild.build.lab2.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.lab2.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.lab2.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/scopedcss/bundle/lab2.styles.css
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.dll
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/refint/lab2.dll
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.pdb
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/lab2.genruntimeconfig.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/lab2/lab2/obj/Debug/net7.0/ref/lab2.dll
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/bin/Debug/net7.0/appsettings.Development.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/bin/Debug/net7.0/appsettings.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/bin/Debug/net7.0/lab2
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/bin/Debug/net7.0/lab2.deps.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/bin/Debug/net7.0/lab2.runtimeconfig.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/bin/Debug/net7.0/lab2.dll
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/bin/Debug/net7.0/lab2.pdb
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.csproj.AssemblyReference.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.AssemblyInfoInputs.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.AssemblyInfo.cs
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.csproj.CoreCompileInputs.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.MvcApplicationPartsAssemblyInfo.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/staticwebassets/msbuild.lab2.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/staticwebassets/msbuild.build.lab2.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.lab2.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.lab2.props
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/staticwebassets.build.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/staticwebassets.development.json
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/scopedcss/bundle/lab2.styles.css
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.dll
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/refint/lab2.dll
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.pdb
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/lab2.genruntimeconfig.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 2/source code/lab2/obj/Debug/net7.0/ref/lab2.dll
