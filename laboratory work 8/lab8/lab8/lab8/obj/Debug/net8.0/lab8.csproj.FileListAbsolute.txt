@@ -1,0 +1,7 @@
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 8/lab8/lab8/lab8/obj/Debug/net8.0/lab8.csproj.AssemblyReference.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 8/lab8/lab8/lab8/obj/Debug/net8.0/lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 8/lab8/lab8/lab8/obj/Debug/net8.0/lab8.AssemblyInfoInputs.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 8/lab8/lab8/lab8/obj/Debug/net8.0/lab8.AssemblyInfo.cs
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 8/lab8/lab8/lab8/obj/Debug/net8.0/lab8.csproj.CoreCompileInputs.cache
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 8/lab8/lab8/lab8/obj/Debug/net8.0/lab8.MvcApplicationPartsAssemblyInfo.cs
+/Users/anastasiya/Documents/kpi/5 семестр/трпз/laboratory work 8/lab8/lab8/lab8/obj/Debug/net8.0/lab8.MvcApplicationPartsAssemblyInfo.cache
